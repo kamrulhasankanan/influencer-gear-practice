@@ -28,7 +28,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 87px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 
@@ -269,11 +269,15 @@ footer {
 }
 
 .feature-container {
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
   gap: 6px;
   margin-top: 10px;
+}
+
+.feature-content{
+    text-align: center;
 }
 
 }
