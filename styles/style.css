@@ -157,8 +157,12 @@ span {
 
 .see-more{
     font-size: 16px;
-    font-weight: 700;
-    color: rgba(224, 44, 109, 0.87);
-    text-align: right;
+    font-weight: 700;        
+    text-align: end;
     margin-right: 100px;
+}
+
+.see-more a{
+    text-decoration: none;
+    color: rgba(224, 44, 109, 0.87);
 }
