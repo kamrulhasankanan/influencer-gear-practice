@@ -188,3 +188,33 @@ span {
     color: rgb(108, 108, 108);
     font-weight: 700;
 }
+
+/* footer styles */
+footer{
+    text-align: center;
+    padding: 50px;
+    background-color: #2a2a2a;
+    margin-top: 100px;
+}
+
+.footer-title{
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.footer-description{
+    font-size: 14px;
+    color: white;
+    font-weight: 700;
+}
+
+.footer-logo ul li{
+    list-style: none;
+}
+
+.footer-logo ul li a{
+    font-size: 32px;
+    margin-right: 30px;
+    color: white;
+}
