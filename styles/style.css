@@ -280,4 +280,8 @@ footer {
     text-align: center;
 }
 
+.feature-image img{
+  max-width: 100%;
+}
+
 }
